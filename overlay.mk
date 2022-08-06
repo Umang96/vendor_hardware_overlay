@@ -2,6 +2,7 @@ PRODUCT_PACKAGES += \
 	HardwareOverlayPicker \
 	QtiAudio \
 	TrebleApp \
+	SpecialFeatures \
 	ImsApp \
 	treble-overlay-NavBar \
 	treble-overlay-NightMode \
